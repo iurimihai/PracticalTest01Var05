@@ -1,8 +1,10 @@
-package ro.pub.cs.systems.eim.practicaltest01var05;
+package ro.pub.cs.systems.eim.practicaltest01var05.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import ro.pub.cs.systems.eim.practicaltest01var05.R;
 
 public class PracticalTest01Var05MainActivity extends AppCompatActivity {
 
